@@ -75,8 +75,8 @@ Do you like Twittee?
 If you like Twittee, you will also probably like [Twitto][5], the Web Framework
 that fits in a tweet!
 
-1: http://twitter.com/fabpot/status/1443952125
-2: http://fabien.potencier.org/
-3: http://fabien.potencier.org/article/12/do-you-need-a-dependency-injection-container
-4: http://fabien.potencier.org/article/11/what-is-dependency-injection
-5: http://twitto.org/
+[1]: http://twitter.com/fabpot/status/1443952125
+[2]: http://fabien.potencier.org/
+[3]: http://fabien.potencier.org/article/12/do-you-need-a-dependency-injection-container
+[4]: http://fabien.potencier.org/article/11/what-is-dependency-injection
+[5]: http://twitto.org/

@@ -11,7 +11,7 @@ Despite its size, Twittee is a full-featured Dependency Injection Container
 with support for object definitions, object injection and parameters.
 
 Published in 2009 by [Fabien Potencier][2], Twittee is in the Public Domain.
-Tweet me if you find a bug! Installation
+Tweet me if you find a bug!
 
 Usage
 -----
